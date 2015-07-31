@@ -1,0 +1,121 @@
+Gene ID: 999
+Gene Symbol: CDH1
+Full Name: cadherin 1, type 1, E-cadherin (epithelial)
+Synonyms: Arc-1|CD324|CDHE|ECAD|LCAM|UVO
+Chromosome Location: 16q22.1
+
+For more info about this gene, please see here:
+http://www.ncbi.nlm.nih.gov/gene/999
+
+--------------------------------------
+
+Gene ID: 998
+Gene Symbol: CDC42
+Full Name: cell division cycle 42
+Synonyms: CDC42Hs|G25K
+Chromosome Location: 1p36.1
+
+For more info about this gene, please see here:
+http://www.ncbi.nlm.nih.gov/gene/998
+
+--------------------------------------
+
+Gene ID: 7431
+Gene Symbol: VIM
+Full Name: vimentin
+Synonyms: CTRCT30
+Chromosome Location: 10p13
+
+For more info about this gene, please see here:
+http://www.ncbi.nlm.nih.gov/gene/7431
+
+--------------------------------------
+
+Gene ID: 1277
+Gene Symbol: COL1A1
+Full Name: collagen, type I, alpha 1
+Synonyms: OI4
+Chromosome Location: 17q21.33
+
+For more info about this gene, please see here:
+http://www.ncbi.nlm.nih.gov/gene/1277
+
+--------------------------------------
+
+Gene ID: 1278
+Gene Symbol: COL1A2
+Full Name: collagen, type I, alpha 2
+Synonyms: OI4
+Chromosome Location: 7q22.1
+
+For more info about this gene, please see here:
+http://www.ncbi.nlm.nih.gov/gene/1278
+
+--------------------------------------
+
+Gene ID: 1000
+Gene Symbol: CDH2
+Full Name: cadherin 2, type 1, N-cadherin (neuronal)
+Synonyms: CD325|CDHN|CDw325|NCAD
+Chromosome Location: 18q11.2
+
+For more info about this gene, please see here:
+http://www.ncbi.nlm.nih.gov/gene/1000
+
+--------------------------------------
+
+Gene ID: 4318
+Gene Symbol: MMP9
+Full Name: matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+Synonyms: CLG4B|GELB|MANDP2|MMP-9
+Chromosome Location: 20q11.2-q13.1
+
+For more info about this gene, please see here:
+http://www.ncbi.nlm.nih.gov/gene/4318
+
+--------------------------------------
+
+Gene ID: 6935
+Gene Symbol: ZEB1
+Full Name: zinc finger E-box binding homeobox 1
+Synonyms: AREB6|BZP|DELTAEF1|FECD6|NIL2A|PPCD3|TCF8|ZFHEP|ZFHX1A
+Chromosome Location: 10p11.2
+
+For more info about this gene, please see here:
+http://www.ncbi.nlm.nih.gov/gene/6935
+
+--------------------------------------
+
+Gene ID: 6615
+Gene Symbol: SNAI1
+Full Name: snail family zinc finger 1
+Synonyms: SLUGH2|SNA|SNAH|SNAIL|SNAIL1|dJ710H13.1
+Chromosome Location: 20q13.2
+
+For more info about this gene, please see here:
+http://www.ncbi.nlm.nih.gov/gene/6615
+
+--------------------------------------
+
+Gene ID: 6591
+Gene Symbol: SNAI2
+Full Name: snail family zinc finger 2
+Synonyms: SLUG|SLUGH1|SNAIL2|WS2D
+Chromosome Location: 8q11
+
+For more info about this gene, please see here:
+http://www.ncbi.nlm.nih.gov/gene/6591
+
+--------------------------------------
+
+Gene ID: 100506658
+Gene Symbol: OCLN
+Full Name: occludin
+Synonyms: BLCPMG
+Chromosome Location: 5q13.1
+
+For more info about this gene, please see here:
+http://www.ncbi.nlm.nih.gov/gene/100506658
+
+--------------------------------------
+
